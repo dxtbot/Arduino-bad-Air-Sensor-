@@ -12,4 +12,6 @@ https://www.aliexpress.com/item/32921371942.html?spm=a2g0s.9042311.0.0.27424c4dS
 it wil show the sensor readings in a colorful graph 
 and percentage of the readings , 
 its just a example that could be used to use for other Analog sensor reading and this cheap TFT module ,
-it uses TFT_ILI9163C  Libary for this type of TFT ,
+it uses TFT_ILI9163C  Libary for this type of TFT .
+
+https://github.com/sumotoy/TFT_ILI9163C 
