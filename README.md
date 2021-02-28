@@ -1,10 +1,8 @@
 # Arduino-bad-Air-Sensor-
 Bad air sensor using a Arduino and a 1.44 inch TFT LCD Display Module 128*128 TFT_ILI9163C 
 
-![IMG20210228101229](https://user-images.githubusercontent.com/20719445/109413934-59a32080-79b0-11eb-9247-83e5ac086aea.jpg)
 ![IMG20210228101231](https://user-images.githubusercontent.com/20719445/109413936-5a3bb700-79b0-11eb-9945-86aaa4bc11ed.jpg)
 ![IMG20210228101206](https://user-images.githubusercontent.com/20719445/109413937-5a3bb700-79b0-11eb-9202-994ef9c8ce93.jpg)
-![IMG20210228101201](https://user-images.githubusercontent.com/20719445/109413938-5ad44d80-79b0-11eb-8cab-2b14f5e56e8c.jpg)
 ![IMG20210228101204](https://user-images.githubusercontent.com/20719445/109413940-5ad44d80-79b0-11eb-822b-e635a9ac40b1.jpg)
 
 For this Project i used a Arduino Nano and a 128*128* TFT module .
