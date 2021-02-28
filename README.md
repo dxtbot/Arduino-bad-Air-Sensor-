@@ -1,5 +1,9 @@
 # Arduino-bad-Air-Sensor-
 Bad air sensor using a Arduino and a 1.44 inch TFT LCD Display Module 128*128 TFT_ILI9163C 
+and a MQ gas sensor .
+there are many different MQ Gas Sensors , use one that you like !
+![download](https://user-images.githubusercontent.com/20719445/109414040-0d0c1500-79b1-11eb-86da-10cdfcdf35ea.jpg)
+
 
 ![IMG20210228101231](https://user-images.githubusercontent.com/20719445/109413936-5a3bb700-79b0-11eb-9945-86aaa4bc11ed.jpg)
 ![IMG20210228101206](https://user-images.githubusercontent.com/20719445/109413937-5a3bb700-79b0-11eb-9202-994ef9c8ce93.jpg)
